@@ -1,0 +1,39 @@
+body{padding:10px;
+     margin:0 auto;
+     width:1000px;
+	 background-color:white;}
+
+p{color:green
+  }
+p{font-size:14px:
+  line-height:2;}
+  
+h1{color:white;
+   border-width:4px;
+   border-style:solid;
+   border-color:black;}
+
+.fire{color:gold}
+
+p{font-family:Courier New;
+  font-size:20px;}
+  
+.new2{font-style:italic; 
+      font-weight:bold;
+	  
+	  text-align:center;
+	  padding:20px;
+	  margin:35px;}
+	  
+	  
+ul{list-style-image:url(../image/arrow.png);}
+
+#header{text-align:center;
+         padding:40px;
+         margin:20px auto 10px auto;
+         width:550px;
+background-color:#042A31;}
+
+#picture{
+float:right;
+}	

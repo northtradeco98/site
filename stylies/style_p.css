@@ -1,0 +1,56 @@
+body{
+	background-color:#D2D2D2;
+	font:12px verdana;
+	color:#A8A8A8;
+	font-weight:bold;
+}
+
+
+
+
+
+
+#wrapper{
+	width:650px;
+	margin:30px auto;
+	
+}
+
+#header{
+	height:75px;
+	background-image:url(../image/redHeader.png);
+	position:relative;
+}
+
+
+
+
+#content{
+	background-color:#F4F4F4;
+	padding-bottom:20px;
+	padding-top:20px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#new{
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+#button{
+	position:absolute;
+	left: 294px;
+	top:-14px;
+}
+#operator{
+	position:fixed;
+	width:22px;
+	height:180px;
+	top:150px;
+	left:0;
+}
+	
+
+

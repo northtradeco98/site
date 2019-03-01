@@ -1,0 +1,16 @@
+body{background-color:#C3C3C3;
+background-image:url(../image/ava.png);
+background-repeat:repeat;}
+
+#main{width:800px;
+height:421px;
+margin:29px auto;
+background-image:url(../image/bg_s.jpg);
+background-repeat:repeat;}
+
+#main h1{text-align:center;
+padding-top:170px;
+font:50px Verdana;
+background-image:url(../image/logo.png);
+background-repeat:no-repeat;
+background-position:10px 188px;}

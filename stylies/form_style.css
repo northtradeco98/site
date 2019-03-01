@@ -1,0 +1,25 @@
+body{
+	font:11px verdana,sans-serif;
+	color:#202340;
+}
+#wrapper{
+	width:500px;
+}
+
+.new{
+	font-weight:bold;
+}
+
+#bottom{
+	background-color:#4CE844;
+}
+fieldset{
+	padding:10px;
+	margin:12px;
+	border:2px solid #E84E40;
+	background-color:#FF625A;
+}
+textarea{width:485px;
+border:2px solid #E84E40;
+background-color:#FFBDA5;
+}
